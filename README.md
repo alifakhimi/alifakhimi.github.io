@@ -32,7 +32,7 @@ Full-Stack Software Engineer with over 15 years of experience in developing robu
 
 ### **Sika** — _Software Engineer, Co-Founder_
 
-_September 2020 - Present_ | _Tehran, Iran_
+_October 2017 - Present_ | _Tehran, Iran_
 
 - Led the development of a multi-tenant **SaaS** platform using **Golang** and **Kubernetes**, ensuring 99.9% uptime for e-commerce services.
 - Architected and implemented microservices-based infrastructure that supports high scalability, resulting in a 90% reduction in setup time for new services.
