@@ -1,8 +1,10 @@
 # Ali Fakhimi
 
+![Ali Fakhimi Profile](profile.jpeg)
+
 ## Contact Information
 
-- **Email**: fakhimi@gmail.com
+- **Email**: <fakhimi@gmail.com>
 - **Location**: Tehran, Iran
 - **LinkedIn**: [ali-fakhimi-3657b971](https://www.linkedin.com/in/ali-fakhimi-3657b971)
 - **GitHub**: [alifakhimi](https://github.com/alifakhimi)
@@ -13,12 +15,12 @@ Full-Stack Software Engineer with over 15 years of experience in developing robu
 
 ## Skills
 
-### Programming Languages:
+### Programming Languages
 
 - **Primary**: Golang, Typescript, Dart, C/C++
-- **Others**: PHP, Python, Shell Script, TSQL, HTML, CSS
+- **Others**: C#, PHP, Python, Shell Script, TSQL, HTML, CSS
 
-### Technologies and Tools:
+### Technologies and Tools
 
 - **Backend**: Kubernetes, Docker, Kafka, Debezium, NGinx, Casbin (Authorization), Echo Labstack, Minio (Object Storage)
 - **Frontend**: React, NextJS, Wordpress Plugin Development
@@ -37,9 +39,6 @@ _September 2020 - Present_ | _Tehran, Iran_
 - Collaborated with cross-functional teams to develop web and mobile applications using **Flutter** and **React**.
 - Integrated **GitLab CI/CD** pipelines for seamless deployment and testing, reducing deployment errors by 50%.
 - Developed a custom **e-ticketing system** to handle customer complaints, reducing response times by 40%.
-
-_October 2017 - April 2021_
-
 - Spearheaded the design and development of logistics solutions for courier services, integrating with multiple e-commerce platforms.
 - Designed cloud-based solutions with **Nginx**, **Kafka**, and **Kubernetes** to manage high traffic loads.
 
