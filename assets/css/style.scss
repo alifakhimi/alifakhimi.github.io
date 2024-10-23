@@ -1,0 +1,33 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+header h1 {
+  margin-bottom: 0;
+}
+
+.logo {
+  max-width: 200px;
+  max-height: 200px;
+}
+
+@media print {
+  .wrapper header {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: no-wrap;
+    padding-right: auto;
+  }
+
+  .wrapper header > div {
+    flex: 1 1 auto;
+  }
+
+  .wrapper header img {
+    max-width: 3cm;
+    max-height: 3cm;
+    order: 999;
+    margin-bottom: 5mm;
+  }
+}
