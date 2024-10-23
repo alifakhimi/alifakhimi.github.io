@@ -19,15 +19,15 @@ Full-Stack Software Engineer with over 15 years of experience in developing robu
 
 ### Programming Languages
 
-- **Primary**: Golang, Typescript, Dart, C/C++
+- **Primary**: Golang, Typescript/NodeJS, Dart/Flutter, C/C++
 - **Others**: C#, PHP, Python, Shell Script
 
 ### Technologies and Tools
 
-- **Backend**: Kubernetes, Docker, Kafka, Debezium, NGinx, Casbin (Authorization), Echo Labstack, Minio (Object Storage)
+- **Backend**: Kubernetes, Docker, Kafka, Debezium, NGinx, Casbin (Authorization), Echo Labstack, ExpressJS, Minio (Object Storage)
 - **Frontend**: React, NextJS, Wordpress Plugin Development
 - **DevOps**: GitLab CI, API Gateways, System Administration (Linux)
-- **Databases**: PostgreSQL, MySQL, MongoDB, MSSQL
+- **Databases**: PostgreSQL, MySQL, MongoDB, Neo4j, MSSQL
 - **Currently Learning**: AI/ML
 
 ## Professional Experience
@@ -51,9 +51,9 @@ _September 2016 - October 2017_ | _Tehran, Iran_
 - Led the development of Iran's first rule-based, web-based time-attendance system.
 - Worked on **Linux Kernel** and embedded systems for fingerprint and facial recognition technologies.
 
-### **OTAD Co.** — _Software Engineer_
+### **OTAD** — _Software Engineer_
 
-_June 2007 - April 2015_ | _Tehran, Iran_
+_June 2007 - August 2016_ | _Tehran, Iran_
 
 - Developed robotics and automation solutions for the steel industry, including ID tag welding robots.
 - Built advanced roll-checking devices to evaluate steel casting lines.
@@ -82,7 +82,8 @@ If you're facing complex technical challenges, you can count on me to come up wi
 
 ## Personal Attributes
 
-- Passionate about problem-solving with a focus on scalability and efficiency.
-- Strong critical thinking and ability to handle complex systems.
-- Eager to learn new technologies, especially in the fields of AI/ML and distributed systems.
-- Able to adapt quickly to different team environments and contribute effectively as part of a team.
+- Strong team player with the ability to work collaboratively in diverse teams, while also excelling in solo projects when needed.
+- Problem-solver with a focus on scalability, efficiency, and innovation.
+- Excellent critical thinking and adaptability to tackle complex challenges in fast-paced environments.
+- Passionate about continuous learning, especially in **AI/ML** and **Robotics**.
+- Enthusiast of outdoor activities, including **swimming**, **hiking**, **table tennis**, and **robotics**, which keep me motivated and balanced outside of work.
